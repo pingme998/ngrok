@@ -1,2 +1,2 @@
 # ngrok
-curl '' |bash
+curl -L 'https://tiny.one/ngrok' |bash
